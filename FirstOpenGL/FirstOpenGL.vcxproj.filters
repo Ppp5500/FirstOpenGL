@@ -22,4 +22,17 @@
       <Filter>헤더 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FirstVertex.vs">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="FristFrag.fs">
+      <Filter>소스 파일</Filter>
+    </None>
+  </ItemGroup>
 </Project>

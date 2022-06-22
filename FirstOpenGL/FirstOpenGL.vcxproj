@@ -22,6 +22,13 @@
     <ClCompile Include="glad.c" />
     <ClCompile Include="asdf.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FirstVertex.vs" />
+    <None Include="FristFrag.fs" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
